@@ -4,6 +4,8 @@
 > 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
+* [在线阅读](https://pyqt4.apachecn.org)
+* [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 
 ## 贡献指南
@@ -20,7 +22,6 @@
 
 ### 其他
 
-*   HTML版本 [HTML版本查看](https://github.com/ver007/pyqt4-docs-zh-cn).
 *   在我们的 [apachecn/pyqt4-doc-zh](https://github.com/apachecn/pyqt4-doc-zh) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
