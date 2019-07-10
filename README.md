@@ -11,9 +11,11 @@
 ### 负责人
 
 * [飞龙](https://github.com/wizardforcel): 562826179
+* [VER007](https://github.com/ver007):zdh@anbai.com
 
 ### 其他
 
+*   HTML版本 [HTML版本查看](https://github.com/ver007/pyqt4-docs-zh-cn).
 *   在我们的 [apachecn/pyqt4-doc-zh](https://github.com/apachecn/pyqt4-doc-zh) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
