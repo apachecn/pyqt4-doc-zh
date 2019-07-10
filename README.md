@@ -10,8 +10,7 @@
 
 ### 负责人
 
-* [飞龙](https://github.com/wizardforcel): 562826179
-* [VER007](https://github.com/ver007):zdh@anbai.com
+* [VER007](https://github.com/ver007): <zdh@anbai.com>
 
 ### 其他
 
